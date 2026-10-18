@@ -19,7 +19,7 @@ The project focuses on data cleaning and preprocessing, identifying key analysis
 
 ## Instructor
 
-[Fatima Ehap Farouk]
+[Fatimah Ehap Farouk]
 
 ## Google Drive
 
